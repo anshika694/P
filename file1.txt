@@ -1,5 +1,6 @@
-Commit 1 
-Commit 2
-Commit 3
+Commit1 
+Commit2
+Commit3
 
-Changes made by teammate
+Commit for bug
+
